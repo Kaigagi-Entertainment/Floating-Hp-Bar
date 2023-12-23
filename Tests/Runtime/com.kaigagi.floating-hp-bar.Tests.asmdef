@@ -1,0 +1,16 @@
+{
+    "name": "com.kaigagi.floating-hp-bar.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c9cbca5bce598244689dea348e9d92e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

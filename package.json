@@ -1,0 +1,12 @@
+{
+  "name": "com.kaigagi.floating-hp-bar",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kaigagi"
+  },
+  "dependencies": {
+    "com.kaigagi.game-stats": "1.0.0"
+  },
+  "description": "",
+  "displayName": "Floating HP Bar"
+}
